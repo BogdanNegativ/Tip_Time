@@ -61,6 +61,7 @@
 
     <Button
         android:id="@+id/calculate_button"
+        android:text="Calculate"
         android:layout_width="0dp"
         android:layout_height="wrap_content"/>
 
