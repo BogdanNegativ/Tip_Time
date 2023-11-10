@@ -49,4 +49,8 @@
             android:text="Okay (15%)" />
     </RadioGroup>
 
+    <Switch
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
