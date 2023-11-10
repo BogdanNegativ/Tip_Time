@@ -52,6 +52,7 @@
     <Switch
         android:id="@+id/round_up_switch"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:text="Round up tip?"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
